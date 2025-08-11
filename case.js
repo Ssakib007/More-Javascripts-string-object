@@ -22,3 +22,7 @@ if (drink.trim() === liquid.trim()) {
 } else {
   console.log("water in the sea");
 }
+console.log(liquid);
+console.log(liquid.trim());
+console.log(liquid.trimStart());
+console.log(liquid.trimEnd());

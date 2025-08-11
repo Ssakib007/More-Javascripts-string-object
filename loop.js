@@ -10,10 +10,10 @@ const mobile = {
 // for in : object
 
 for (const a in mobile) {
-  //   console.log(a);
-  //   console.log(mobile);
-  //   console.log(a);
-  //   console.log(mobile[a]);
+  console.log(a);
+  // console.log(mobile);
+  // console.log(a);
+  console.log(mobile[a]);
 }
 
 const keys = Object.keys(mobile);
